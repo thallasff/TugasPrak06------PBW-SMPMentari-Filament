@@ -1,5 +1,7 @@
 # 🚀 Praktikum PBW — Laravel + Filament
 
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/5af7b7ff-222f-406f-a0ac-54170f75a828" />    
+
 ---
 
 ## **✨ Langkah-Langkah Pengerjaan**
@@ -51,15 +53,6 @@
 * menjalankan server → `php artisan serve`
 * akses admin panel → `http://localhost:8000/admin`
 
-### **10. Upload ke GitHub**
-
-* hapus git lama (kalau ada) → `rd /s /q .git`
-* `git init`
-* `git add .`
-* `git commit -m "Initial commit"`
-* set nama & email git
-* tambahkan remote dan push ke GitHub
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/3aa576ec-30e5-415c-ae4c-e112c5246023" />
 
 ---
-
-💡 *Tinggal tambahkan screenshot di bagian-bagian yang diperlukan sesuai instruksi tugas.*
